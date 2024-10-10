@@ -1,0 +1,45 @@
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   
+}
+
+
+
+.search-container {
+    width: 100%;
+    background: rgb(236, 234, 234);
+    border-radius: 2rem;
+    align-items: center;
+    padding: 6px 20px;
+    height: 45px;
+
+}
+
+
+
+    .search-container input {
+        background: transparent;
+        flex: 1;
+        margin-bottom: 6px;
+        border: 0;
+        outline: none;
+        
+
+    }
+    .search-container input[type= 'text'] {
+
+        font-size: large;
+        padding-top: 8px;
+        font-weight: 500;
+        color: black;
+    }
+
+    .search-container button {
+        border-radius: 20%;
+        border: 0;
+        font-size: 25px;
+        width: 40px;
+        background:transparent;
+    }

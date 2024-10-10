@@ -1,0 +1,28 @@
+
+
+#BannerM {
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    border-radius: 4rem;
+
+  }
+
+  #BannerD {
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    border-radius: 6rem;
+
+  }
+
+  #bannertx {
+    margin-top: 6rem;
+    margin-left: 6rem;
+    margin-bottom: 2rem;
+  }
+
+  #Btext {
+    font-size: 50px;
+  }
+  
